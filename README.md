@@ -16,6 +16,8 @@ Each request includes basic tests for:
 
 ## Getting Started
 
- **Api collection Postman**:
+ **API collection Postman**:
  - [Star Wars.postman_collection](https://github.com/Marynochka1/11111/blob/main/Maryna%20Kopytina%20Star%20Wars.postman_collection.json)
+ - [Swagger Petstore.postman_collection.](https://github.com/Marynochka1/11111/blob/main/Maryna%20Kopytina%20Swagger%20Petstore.postman_collection.json)
+ - [Complex.postman_collection](https://github.com/Marynochka1/11111/blob/main/Maryna%20Kopytina_complex.postman_collection.json)
 
