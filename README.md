@@ -16,6 +16,6 @@ Each request includes basic tests for:
 
 ## Getting Started
 
-1. **Api collection Postman**:
+ **Api collection Postman**:
  [Star Wars.postman_collection] (https://github.com/Marynochka1/11111/blob/main/Maryna%20Kopytina%20Star%20Wars.postman_collection.json)
 
