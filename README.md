@@ -18,4 +18,4 @@ Each request includes basic tests for:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/qa-manual-api-portfolio.git
+  [ git clone https://github.com/your-username/qa-manual-api-portfolio.git](https://github.com/Marynochka1/11111/blob/main/Maryna%20Kopytina%20Star%20Wars.postman_collection.json)
