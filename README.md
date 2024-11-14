@@ -17,5 +17,4 @@ Each request includes basic tests for:
 ## Getting Started
 
 1. **Clone the Repository**:
-   ```bash
-  [ git clone https://github.com/your-username/qa-manual-api-portfolio.git](https://github.com/Marynochka1/11111/blob/main/Maryna%20Kopytina%20Star%20Wars.postman_collection.json)
+  [ git clone https://github.com/your-username/qa-manual-api-portfolio.git][Star Wars.postman_collection](https://github.com/Marynochka1/11111/blob/main/Maryna%20Kopytina%20Star%20Wars.postman_collection.json)
